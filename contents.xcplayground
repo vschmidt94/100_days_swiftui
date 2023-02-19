@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='checkpoint1'/>
+        <page name='page1_vars_types'/>
+        <page name='checkpoint2'/>
+        <page name='day5_conditionals'/>
+        <page name='checkpoint3_fizzbuzz'/>
+        <page name='day7_functions'/>
+        <page name='checkpoint4_functions'/>
+    </pages>
+</playground>
